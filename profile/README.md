@@ -13,7 +13,8 @@
 
 <p align="center">
   <a href="https://factory-pilot.ai"><img src="https://img.shields.io/badge/WEBSITE-111827?style=for-the-badge" alt="Website"></a>
-  <a href="https://factory-pilot.ai/en/book-demo"><img src="https://img.shields.io/badge/BOOK%20A%20DEMO-E8762D?style=for-the-badge" alt="Book a Demo"></a>
+  <a href="https://calendly.com/philipp-kirschenhofer-kfs-group/30min"><img src="https://img.shields.io/badge/BOOK%20A%20DEMO-E8762D?style=for-the-badge" alt="Book a Demo"></a>
+  <a href="https://factory-pilot.ai/en/contact"><img src="https://img.shields.io/badge/CONTACT%20US-111827?style=for-the-badge" alt="Contact us"></a>
   <a href="https://www.linkedin.com/company/factory-pilot"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
 </p>
 
@@ -67,6 +68,6 @@ Spins up TimescaleDB, InfluxDB, and Grafana with 7 days of synthetic sensor data
 ---
 
 <p align="center">
-  <a href="https://factory-pilot.ai/en/book-demo"><img src="https://img.shields.io/badge/Book%20live%20demo-E8762D?style=for-the-badge&logo=calendly&logoColor=white" alt="Book a live demo"></a>
+  <a href="https://calendly.com/philipp-kirschenhofer-kfs-group/30min"><img src="https://img.shields.io/badge/Book%20live%20demo-E8762D?style=for-the-badge&logo=calendly&logoColor=white" alt="Book a live demo"></a>
   <a href="https://factory-pilot.ai/en/contact"><img src="https://img.shields.io/badge/Contact%20us-111827?style=for-the-badge&logo=maildotru&logoColor=38BDF8" alt="Contact us"></a>
 </p>
